@@ -58,7 +58,7 @@ myhtopplatsources = linux/Platform.c linux/IOPriorityPanel.c \
 linux/LinuxProcess.c linux/LinuxProcessList.c linux/LinuxCRT.c linux/Battery.c \
 linux/PressureStallMeter.c \
 zfs/ZfsArcMeter.c zfs/ZfsCompressedArcMeter.c zfs/ZfsArcStats.c \
-ZramMeter.c
+linux/ZramMeter.c
 
 myhtopplatheaders = $(linux_platform_headers)
 endif

@@ -4,8 +4,6 @@
 #include "CRT.h"
 #include "Platform.h"
 
-static double stat_value = 50.0;
-
 int ZramMeter_attributes[] = {
    ZRAM
 };
